@@ -1,2 +1,6 @@
 # Beginners-Pandas-Project
 Big Data Real time projects with some useful functions and operators.
+Use the Files accordingly:
+1. file.csv = For Project 1
+2. car.csv = for Project 2
+3. Police.csv = for Project 3
