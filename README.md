@@ -6,4 +6,4 @@ Use the Files accordingly:
 3. Police.csv = for Project 3
 4. Covid.csv = for Project 4
 5. London housing.csv = for Project 5
-6. Census Dataset.cs = for Project 6
+6. Census Dataset.csv = for Project 6
